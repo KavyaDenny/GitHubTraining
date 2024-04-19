@@ -17,6 +17,7 @@ define(['N/action'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
+            log.debug("Hello");
 
         }
 
